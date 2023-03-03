@@ -1,5 +1,4 @@
 import pygame, sys, board, resource, math
-from tkinter import simpledialog
 
 SIZE = WIDTH, HEIGHT = 1280, 720
 TILE_SIZE = 25
